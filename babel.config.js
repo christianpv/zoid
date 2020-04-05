@@ -8,9 +8,9 @@ module.exports = (api) => {
         presets: [
             [
                 '@babel/env', {
-                    modules,
+                    modules
                 }
             ]
         ]
-    }
+    };
 };
